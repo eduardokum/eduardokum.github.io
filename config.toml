@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://www.eduardogusmao.com.br/"
+baseurl = "http://eduardokum.github.io/"
 languageCode = "en-us"
 title = "Eduardo Gusmão"
 theme = "hugo-orbit-theme"
