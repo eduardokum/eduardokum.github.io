@@ -5,6 +5,8 @@ languageCode = "en-us"
 title = "Eduardo Gusmão"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
+publishDir = "."
+
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
